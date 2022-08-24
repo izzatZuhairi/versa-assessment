@@ -4,18 +4,22 @@
    - SWTest.ts is the API Test
 
 - NodeJs is required.
+- I use yarn for this script, so please install yarn
+  ```
+    npm install yarn
+  ```
 - After git cloning the project from "main" branch, please run
 
   ```
       yarn or npm i
   ```
 
-- to initialize the @types/node to build and compile the ts file using node;
+- to initialize the packages/lib;
 
 - then build the file:
 
   ```
-      tsc SWTest.ts
+      yarn tsc SWTest.ts
   ```
 
 - and run the generated js file
