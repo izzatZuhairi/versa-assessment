@@ -4,14 +4,23 @@
    - SWTest.ts is the API Test
 
 - NodeJs is required.
+- After git cloning the project from "main" branch
+- cd to versa-assessment directory
+
 - I use yarn for this script, so please install yarn
   ```
     npm install yarn
   ```
-- After git cloning the project from "main" branch, please run
+- and then run
 
   ```
-      yarn or npm i
+      yarn
+  ```
+
+  or
+
+  ```
+    npm install
   ```
 
 - to initialize the packages/lib;
